@@ -1,7 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/99/de/b5/99deb54acde23ff8860372e78d68c9f9.gif)
 <h1 align="left">Hi 👋, I'm Dorine</h1>
 <h3 align="left">A passionate data scientist from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/1e/8d/4a/1e8d4aac852da471d416223ca38606f3.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/99/de/b5/99deb54acde23ff8860372e78d68c9f9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorinelangat&label=Profile%20views&color=0e75b6&style=flat" alt="dorinelangat" /> </p>
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **dorinelangat7@gmail.com**
 
-- ⚡ Fun fact **I am funny, so I think**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
